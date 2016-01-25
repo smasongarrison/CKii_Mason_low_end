@@ -1,0 +1,468 @@
+army_move  =  {
+	file = "void.wav"
+	volume = 0
+}
+army_selected  =  {
+	file = "void.wav"
+	volume = 0
+}
+battle_lost  =  {
+	file = "void.wav"
+	volume = 0
+}
+battle_won  =  {
+	file = "void.wav"
+	volume = 0
+}
+bookmark_click  =  {
+	file = "void.wav"
+	volume = 0
+}
+building_completed  =  {
+	file = "void.wav"
+	volume = 0
+}
+character_browser  =  {
+	file = "void.wav"
+	volume = 0
+}
+character_death  =  {
+	file = "void.wav"
+	volume = 0
+}
+character_event  = {
+	file = "void.wav"
+	volume = 0
+}
+character_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+character_view_click  =  {
+	file = "void.wav"
+	volume = 0
+}
+chat_sent  = {
+	file = "void.wav"
+	volume = 0
+}
+child_born  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_1  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_2  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_3  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_4  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_5  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_6  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_7  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_8  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_9  =  {
+	file = "void.wav"
+	volume = 0
+}
+choose_country_10  =  {
+	file = "void.wav"
+	volume = 0
+}
+church_bells  = {
+	file = "void.wav"
+	volume = 0
+}
+city_mid_east  =  {
+	file = "void.wav"
+	volume = 0
+}
+city_western  =  {
+	file = "void.wav"
+	volume = 0
+}
+click  =  {
+	file = "void.wav"
+	volume = 0
+}
+click_01  =  {
+	file = "void.wav"
+	volume = 0
+}
+click_02  =  {
+	file = "void.wav"
+	volume = 0
+}
+click_03  =  {
+	file = "void.wav"
+	volume = 0
+}
+coastal  =  {
+	file = "void.wav"
+	volume = 0
+}
+coastal_event_1  =  {
+	file = "void.wav"
+	volume = 0
+}
+coastal_event_2  =  {
+	file = "void.wav"
+	volume = 0
+}
+coastal_event_3  =  {
+	file = "void.wav"
+	volume = 0
+}
+coastal_event_4  =  {
+	file = "void.wav"
+	volume = 0
+}
+coastal_event_5  =  {
+	file = "void.wav"
+	volume = 0
+}
+court_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+declare_war  = {
+	file = "void.wav"
+	volume = 0
+}
+desert  = {
+	file = "void.wav"
+	volume = 0
+}
+desert_event_3  =  {
+	file = "void.wav"
+	volume = 0
+}
+desert_event_4  =  {
+	file = "void.wav"
+	volume = 0
+}
+desert_event_5  =  {
+	file = "void.wav"
+	volume = 0
+}
+desert_event_6  =  {
+	file = "void.wav"
+	volume = 0
+}
+desert_event_7  =  {
+	file = "void.wav"
+	volume = 0
+}
+diplo_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+diplomatic_message  =  {
+	file = "void.wav"
+	volume = 0
+}
+dynasty_tree  =  {
+	file = "void.wav"
+	volume = 0
+}
+forest  = {
+	file = "void.wav"
+	volume = 0
+}
+forest_event_1  = {
+	file = "void.wav"
+	volume = 0
+}
+forest_event_2  = {
+	file = "void.wav"
+	volume = 0
+}
+forest_event_3  = {
+	file = "void.wav"
+	volume = 0
+}
+forest_event_4  = {
+	file = "void.wav"
+	volume = 0
+}
+forest_event_5  = {
+	file = "void.wav"
+	volume = 0
+}
+forest_event_6  = {
+	file = "void.wav"
+	volume = 0
+}
+generic_click_01  = {
+	file = "void.wav"
+	volume = 0
+}
+generic_click_02  = {
+	file = "void.wav"
+	volume = 0
+}
+generic_click_03  = {
+	file = "void.wav"
+	volume = 0
+}
+generic_click_04  = {
+	file = "void.wav"
+	volume = 0
+}
+go_back  = {
+	file = "void.wav"
+	volume = 0
+}
+hi_prio_message  = {
+	file = "void.wav"
+	volume = 0
+}
+illegal_move  =  {
+	file = "void.wav"
+	volume = 0
+}
+land  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_archery_1  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_archery_2  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_archery_3  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_background  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_melee  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_pursue  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_skirmish  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_1  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_2  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_3  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_4  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_5  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_6  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_7  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_battle_sword_8  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_event_1  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_event_2  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_event_3  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_event_4  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_event_5  =  {
+	file = "void.wav"
+	volume = 0
+}
+land_event_6  =  {
+	file = "void.wav"
+	volume = 0
+}
+law_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+ledger  =  {
+	file = "void.wav"
+	volume = 0
+}
+letter_event  = {
+	file = "void.wav"
+	volume = 0
+}
+lock_minimap  =  {
+	file = "void.wav"
+	volume = 0
+}
+map_mode  =  {
+	file = "void.wav"
+	volume = 0
+}
+menu_click  =  {
+	file = "void.wav"
+	volume = 0
+}
+message_rules  =  {
+	file = "void.wav"
+	volume = 0
+}
+military_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+money_in  =  {
+	file = "void.wav"
+	volume = 0
+}
+money_out  =  {
+	file = "void.wav"
+	volume = 0
+}
+narrative_event  = {
+	file = "void.wav"
+	volume = 0
+}
+navy_move  =  {
+	file = "void.wav"
+	volume = 0
+}
+navy_selected  =  {
+	file = "void.wav"
+	volume = 0
+}
+new_alert  =  {
+	file = "void.wav"
+	volume = 0
+}
+opensea  =  {
+	file = "void.wav"
+	volume = 0
+}
+other_start_war  =  {
+	file = "void.wav"
+	volume = 0
+}
+play  =  {
+	file = "void.wav"
+	volume = 0
+}
+plot_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+province_event  = {
+	file = "void.wav"
+	volume = 0
+}
+quit  =  {
+	file = "void.wav"
+	volume = 0
+}
+religion_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+siege  =  {
+	file = "void.wav"
+	volume = 0
+}
+siege_lost  =  {
+	file = "void.wav"
+	volume = 0
+}
+siege_won  =  {
+	file = "void.wav"
+	volume = 0
+}
+succession_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+tech_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+tech_view_2  =  {
+	file = "void.wav"
+	volume = 0
+}
+time_back  = {
+	file = "void.wav"
+	volume = 0
+}
+time_forward  =  {
+	file = "void.wav"
+	volume = 0
+}
+title_view  =  {
+	file = "void.wav"
+	volume = 0
+}
+turning_page  =  {
+	file = "void.wav"
+	volume = 0
+}
+tutorial_click  =  {
+	file = "void.wav"
+	volume = 0
+}
+tutorial_hint  =  {
+	file = "void.wav"
+	volume = 0
+}
+zoomedout  =  {
+	file = "void.wav"
+	volume = 0
+}
